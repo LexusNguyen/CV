@@ -1,16 +1,6 @@
-# Allerwill Lee CV
+# Nguyen Hong Phuc CV
 # __		      __	 _    _
-  \ \      ____      / /	| |  | |
-   \ \    / /\ \    / /  _   _	| |  | |
-    \ \  / /  \ \  / /	| | | |	| |  | |
-     \_\/_/    \_\/_/	|_| |_|	|_|  |_|
 
-	 _	   
-	| |	     _____
-	| |	    /  ___\
-	| |	   /  _____\
-	| |____	  /  /_______
-	|______|  \_________/
 
 Click on the left Navigation bar button to show the items below:
 
